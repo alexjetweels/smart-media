@@ -4,9 +4,9 @@
 const CONFIG = {
   popupDelay: 500, // Show popup after 0.5 seconds (immediate on first load)
   floatingBannerDelay: 3000, // Show floating banner after 3 seconds
-  localStoragePopupKey: 'proagency_popup_shown_ever', // Track if popup was ever shown
-  sessionStorageKey: 'proagency_popup_shown',
-  floatingBannerKey: 'proagency_floating_banner_closed',
+  localStoragePopupKey: 'smartmedia_popup_shown_ever', // Track if popup was ever shown
+  sessionStorageKey: 'smartmedia_popup_shown',
+  floatingBannerKey: 'smartmedia_floating_banner_closed',
 };
 
 // Initialize when DOM is loaded

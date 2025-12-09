@@ -1,7 +1,7 @@
 var arrLang = {
   'en-gb': {
     LEGAL_DISCLAIMER:
-      'Legal Disclaimer: Proagency.work reserves the right to refuse any project that involves advertising illegal products or services. Clients bear full responsibility and liability for ensuring their campaigns comply with all applicable laws in Vietnam and any other relevant jurisdictions.',
+      'Legal Disclaimer: smartmedia.work reserves the right to refuse any project that involves advertising illegal products or services. Clients bear full responsibility and liability for ensuring their campaigns comply with all applicable laws in Vietnam and any other relevant jurisdictions.',
     RATING_LABEL: 'Rating',
     RATING_DESC: 'Trusted by Clients from Worldwide',
     HOME: 'Home',
@@ -15,11 +15,11 @@ var arrLang = {
     TITLE1B: '',
     TITLE1C: 'Reliable & Scalable Advertising Solutions',
     DESC1:
-      'Pro Agency elevates your brand with premium Facebook advertising solutions, meticulously designed to drive breakthrough and sustainable growth.',
+      'Smart Media elevates your brand with premium Facebook advertising solutions, meticulously designed to drive breakthrough and sustainable growth.',
     START: 'GET A FREE QUOTE',
-    TITLE2: 'About ProAgency – Trusted Facebook Business Account Provider',
+    TITLE2: 'About smartmedia – Trusted Facebook Business Account Provider',
     DESC2:
-      '<strong>ProAgency specializes in providing safe and verified Facebook Business Accounts</strong> to help businesses and agencies worldwide overcome these difficulties. Our solutions include <strong>scalable accounts, full 24/7 support, and guaranteed replacements,</strong> giving you the confidence to run campaigns smoothly and grow without limits.',
+      '<strong>smartmedia specializes in providing safe and verified Facebook Business Accounts</strong> to help businesses and agencies worldwide overcome these difficulties. Our solutions include <strong>scalable accounts, full 24/7 support, and guaranteed replacements,</strong> giving you the confidence to run campaigns smoothly and grow without limits.',
 
     // Team Members Section
     'TEAM-TITLE': 'Meet Our Team',
@@ -27,7 +27,7 @@ var arrLang = {
     'FOUNDER-NAME': 'Mr. Nguyen Thanh Van',
     'FOUNDER-TITLE': 'Founder & CEO',
     'FOUNDER-DESC':
-      "The founder and CEO of ProAgency brings years of experience in digital marketing and advertising solutions. With a strong background in scaling global ad campaigns, he has built ProAgency on the core principles of trust, innovation, and client success. He is passionate about empowering brands with the tools they need to succeed in a competitive digital world. His forward-thinking approach drives our commitment to innovation, reliability, and most importantly, our clients' success.",
+      "The founder and CEO of smartmedia brings years of experience in digital marketing and advertising solutions. With a strong background in scaling global ad campaigns, he has built smartmedia on the core principles of trust, innovation, and client success. He is passionate about empowering brands with the tools they need to succeed in a competitive digital world. His forward-thinking approach drives our commitment to innovation, reliability, and most importantly, our clients' success.",
     'LEADER1-NAME': 'Mrs. Linh',
     'LEADER1-TITLE': 'Business Strategy Leader',
     'LEADER1-DESC':
@@ -113,7 +113,7 @@ var arrLang = {
     //PROCESS
     'TITLE-PROCESS': 'PROCESS – How It Works',
     'DESC-PROCESS':
-      "At ProAgency, we make renting and running Facebook Business Accounts fast, secure, and hassle-free. Here's the step-by-step process:",
+      "At smartmedia, we make renting and running Facebook Business Accounts fast, secure, and hassle-free. Here's the step-by-step process:",
     'PROCESS-STEP-1-TITLE': '1. Test Your Ads',
     'PROCESS-STEP-1-DESC':
       'I will test your ads in my business account to make sure your ads work properly.',
@@ -151,7 +151,7 @@ var arrLang = {
     'PROCESS-RESULT-1':
       '<strong>✅ Result:</strong> You only focus on running and scaling your ads.',
     'PROCESS-RESULT-2':
-      '<strong>👉</strong> All the technical setup, account security, and backup are handled by ProAgency.',
+      '<strong>👉</strong> All the technical setup, account security, and backup are handled by smartmedia.',
 
     // Events Gallery
     'EVENTS-TITLE': 'Events Gallery',
@@ -204,12 +204,12 @@ var arrLang = {
     //TESTIMONIALS
     'TESTIMONIALS-TITLE': 'Read what Others have to say',
     'TESTIMONIAL-1-TEXT':
-      '"I had issues with my previous ad accounts always getting restricted. ProAgency provided me with a verified BM and stable accounts that worked perfectly. No more stress about sudden bans. Super reliable service!"',
+      '"I had issues with my previous ad accounts always getting restricted. smartmedia provided me with a verified BM and stable accounts that worked perfectly. No more stress about sudden bans. Super reliable service!"',
     'TESTIMONIAL-1-NAME': 'John M.',
     'TESTIMONIAL-1-TITLE': 'E-commerce Store Owner',
     'TESTIMONIAL-1-FLAG': '🇺🇸',
     'TESTIMONIAL-2-TEXT':
-      '"The support team at ProAgency is amazing. They walked me through every step, set up my ads on VPS, and even gave me a free Smart Pixel. I\'ve never experienced such smooth onboarding before. Highly recommended."',
+      '"The support team at smartmedia is amazing. They walked me through every step, set up my ads on VPS, and even gave me a free Smart Pixel. I\'ve never experienced such smooth onboarding before. Highly recommended."',
     'TESTIMONIAL-2-NAME': 'Lisa Tran',
     'TESTIMONIAL-2-TITLE': 'Digital Marketer',
     'TESTIMONIAL-2-FLAG': '🇸🇬',
@@ -224,7 +224,7 @@ var arrLang = {
     'TESTIMONIAL-4-TITLE': 'Performance Marketing Specialist',
     'TESTIMONIAL-4-FLAG': '🇬🇧',
     'TESTIMONIAL-5-TEXT':
-      '"As an agency owner, I needed a trusted partner for ad accounts. ProAgency delivered exactly what they promised – secure accounts, fast replacement if needed, and expert consultancy. They\'re professional and trustworthy."',
+      '"As an agency owner, I needed a trusted partner for ad accounts. smartmedia delivered exactly what they promised – secure accounts, fast replacement if needed, and expert consultancy. They\'re professional and trustworthy."',
     'TESTIMONIAL-5-NAME': 'David Nguyen',
     'TESTIMONIAL-5-TITLE': 'Agency Founder',
     'TESTIMONIAL-5-FLAG': '🇨🇦',
@@ -306,9 +306,9 @@ var arrLang = {
     'BANNER-BENEFIT-3': '$500 bonus gift',
     'BANNER-CTA': 'Contact us on Telegram',
 
-    'POPUP-TITLE': 'Exclusive Benefits for New Clients – ProAgency',
+    'POPUP-TITLE': 'Exclusive Benefits for New Clients – smartmedia',
     'POPUP-SUBTITLE': 'Limited time offer for first-time clients',
-    'POPUP-HIGHLIGHT': 'Start with ProAgency today and save more!',
+    'POPUP-HIGHLIGHT': 'Start with smartmedia today and save more!',
     'POPUP-BENEFIT-1': '3% OFF service fee in the first month',
     'POPUP-BENEFIT-2': 'FREE 3-day trial to experience our service',
     'POPUP-BENEFIT-3': '$500 bonus gift on first deposit',
@@ -319,7 +319,7 @@ var arrLang = {
   },
   'zh-tw': {
     LEGAL_DISCLAIMER:
-      '法律免责声明：Proagency.work 保留拒绝涉及非法产品或服务广告项目的权利。客户需对其广告活动是否遵守越南及其他相关司法管辖区的所有适用法律承担全部责任。',
+      '法律免责声明：smartmedia.work 保留拒绝涉及非法产品或服务广告项目的权利。客户需对其广告活动是否遵守越南及其他相关司法管辖区的所有适用法律承担全部责任。',
     RATING_LABEL: '评分',
     RATING_DESC: '获得全球客户信赖',
     HOME: '主页',
@@ -345,7 +345,7 @@ var arrLang = {
     'FOUNDER-NAME': '阮清万先生',
     'FOUNDER-TITLE': '创始人兼首席执行官',
     'FOUNDER-DESC':
-      'ProAgency的创始人兼首席执行官在数字营销和广告解决方案方面拥有多年经验。凭借扩展全球广告活动的强大背景，他基于信任、创新和客户成功的核心原则建立了ProAgency。他热衷于为品牌提供在竞争激烈的数字世界中取得成功所需的工具。他前瞻性的方法推动了我们对创新、可靠性，最重要的是客户成功的承诺。',
+      'smartmedia的创始人兼首席执行官在数字营销和广告解决方案方面拥有多年经验。凭借扩展全球广告活动的强大背景，他基于信任、创新和客户成功的核心原则建立了smartmedia。他热衷于为品牌提供在竞争激烈的数字世界中取得成功所需的工具。他前瞻性的方法推动了我们对创新、可靠性，最重要的是客户成功的承诺。',
     'LEADER1-NAME': '林女士',
     'LEADER1-TITLE': '业务战略负责人',
     'LEADER1-DESC':
@@ -421,7 +421,7 @@ var arrLang = {
     //PROCESS
     'TITLE-PROCESS': '流程 – 工作方式',
     'DESC-PROCESS':
-      '在ProAgency，我们让Facebook商业账户的租赁和运营变得快速、安全且无忧。以下是分步流程：',
+      '在smartmedia，我们让Facebook商业账户的租赁和运营变得快速、安全且无忧。以下是分步流程：',
     'PROCESS-STEP-1-TITLE': '1. 测试您的广告',
     'PROCESS-STEP-1-DESC':
       '我会在我的商业账户中测试您的广告，以确保您的广告能够正常运行。',
@@ -452,7 +452,7 @@ var arrLang = {
     'PROCESS-RESULT-1':
       '<strong>✅ 结果：</strong> 您只需专注于投放和扩展广告。',
     'PROCESS-RESULT-2':
-      '<strong>👉</strong> 所有技术设置、账户安全和备份都由ProAgency处理。',
+      '<strong>👉</strong> 所有技术设置、账户安全和备份都由smartmedia处理。',
 
     // Events Gallery
     'EVENTS-TITLE': '活动画廊',
@@ -503,12 +503,12 @@ var arrLang = {
     //TESTIMONIALS
     'TESTIMONIALS-TITLE': '看看其他人怎么说',
     'TESTIMONIAL-1-TEXT':
-      '"我之前的商业账户总是受到限制。ProAgency为我提供了经过验证的BM和稳定的账户，运行完美。不再担心突然被封。非常可靠的服务！"',
+      '"我之前的商业账户总是受到限制。smartmedia为我提供了经过验证的BM和稳定的账户，运行完美。不再担心突然被封。非常可靠的服务！"',
     'TESTIMONIAL-1-NAME': 'John M.',
     'TESTIMONIAL-1-TITLE': '电商店主',
     'TESTIMONIAL-1-FLAG': '🇺🇸',
     'TESTIMONIAL-2-TEXT':
-      '"ProAgency的支持团队非常出色。他们带我完成每一步，在VPS上设置广告，甚至给了我免费的智能像素。我从未经历过如此顺畅的入门体验。强烈推荐。"',
+      '"smartmedia的支持团队非常出色。他们带我完成每一步，在VPS上设置广告，甚至给了我免费的智能像素。我从未经历过如此顺畅的入门体验。强烈推荐。"',
     'TESTIMONIAL-2-NAME': 'Lisa Tran',
     'TESTIMONIAL-2-TITLE': '数字营销人员',
     'TESTIMONIAL-2-FLAG': '🇸🇬',
@@ -523,7 +523,7 @@ var arrLang = {
     'TESTIMONIAL-4-TITLE': '绩效营销专家',
     'TESTIMONIAL-4-FLAG': '🇬🇧',
     'TESTIMONIAL-5-TEXT':
-      '"作为代理所有者，我需要一个值得信赖的商业账户合作伙伴。ProAgency完全兑现了承诺——安全的账户、快速更换（如需要）和专家咨询。他们专业且值得信赖。"',
+      '"作为代理所有者，我需要一个值得信赖的商业账户合作伙伴。smartmedia完全兑现了承诺——安全的账户、快速更换（如需要）和专家咨询。他们专业且值得信赖。"',
     'TESTIMONIAL-5-NAME': 'David Nguyen',
     'TESTIMONIAL-5-TITLE': '代理创始人',
     'TESTIMONIAL-5-FLAG': '🇨🇦',
@@ -595,9 +595,9 @@ var arrLang = {
     'BANNER-BENEFIT-3': '$500奖励礼金',
     'BANNER-CTA': '在Telegram上联系我们',
 
-    'POPUP-TITLE': '新客户专享福利 – ProAgency',
+    'POPUP-TITLE': '新客户专享福利 – smartmedia',
     'POPUP-SUBTITLE': '首次客户限时优惠',
-    'POPUP-HIGHLIGHT': '今天就开始使用ProAgency，节省更多！',
+    'POPUP-HIGHLIGHT': '今天就开始使用smartmedia，节省更多！',
     'POPUP-BENEFIT-1': '首月服务费减免3%',
     'POPUP-BENEFIT-2': '免费3天试用体验我们的服务',
     'POPUP-BENEFIT-3': '首次充值获得$500奖励礼金',
@@ -608,7 +608,7 @@ var arrLang = {
   },
   'ru-gb': {
     LEGAL_DISCLAIMER:
-      'Юридический отказ: Proagency.work оставляет за собой право отказать в любом проекте, связанном с рекламой незаконных товаров или услуг. Клиенты несут полную ответственность за то, чтобы их кампании соответствовали всем применимым законам Вьетнама и других соответствующих юрисдикций.',
+      'Юридический отказ: smartmedia.work оставляет за собой право отказать в любом проекте, связанном с рекламой незаконных товаров или услуг. Клиенты несут полную ответственность за то, чтобы их кампании соответствовали всем применимым законам Вьетнама и других соответствующих юрисдикций.',
     RATING_LABEL: 'Рейтинг',
     RATING_DESC: 'Доверие клиентов по всему миру',
     HOME: 'Главная',
@@ -634,7 +634,7 @@ var arrLang = {
     'FOUNDER-NAME': 'Г-н Нгуен Тхань Ван',
     'FOUNDER-TITLE': 'Основатель и генеральный директор',
     'FOUNDER-DESC':
-      'Основатель и генеральный директор ProAgency обладает многолетним опытом в области цифрового маркетинга и рекламных решений. Имея сильную базу в масштабировании глобальных рекламных кампаний, он построил ProAgency на основных принципах доверия, инноваций и успеха клиентов. Он увлечен предоставлением брендам инструментов, необходимых для успеха в конкурентном цифровом мире. Его дальновидный подход определяет нашу приверженность инновациям, надежности и, что самое важное, успеху наших клиентов.',
+      'Основатель и генеральный директор smartmedia обладает многолетним опытом в области цифрового маркетинга и рекламных решений. Имея сильную базу в масштабировании глобальных рекламных кампаний, он построил smartmedia на основных принципах доверия, инноваций и успеха клиентов. Он увлечен предоставлением брендам инструментов, необходимых для успеха в конкурентном цифровом мире. Его дальновидный подход определяет нашу приверженность инновациям, надежности и, что самое важное, успеху наших клиентов.',
     'LEADER1-NAME': 'Г-жа Линь',
     'LEADER1-TITLE': 'Руководитель бизнес-стратегии',
     'LEADER1-DESC':
@@ -714,7 +714,7 @@ var arrLang = {
     //PROCESS
     'TITLE-PROCESS': 'ПРОЦЕСС – Как это работает',
     'DESC-PROCESS':
-      'В ProAgency мы делаем аренду и управление рекламными аккаунтами Facebook быстрыми, безопасными и без проблем. Вот пошаговый процесс:',
+      'В smartmedia мы делаем аренду и управление рекламными аккаунтами Facebook быстрыми, безопасными и без проблем. Вот пошаговый процесс:',
     'PROCESS-STEP-1-TITLE': '1. Тестирование ваших объявлений',
     'PROCESS-STEP-1-DESC':
       'Мы начинаем с тестирования вашей кампании, используя наши аккаунты.',
@@ -753,7 +753,7 @@ var arrLang = {
     'PROCESS-RESULT-1':
       '<strong>✅ Результат:</strong> Вы сосредоточиваетесь только на запуске и масштабировании своих объявлений.',
     'PROCESS-RESULT-2':
-      '<strong>👉</strong> Вся техническая настройка, безопасность аккаунта и резервное копирование обрабатываются ProAgency.',
+      '<strong>👉</strong> Вся техническая настройка, безопасность аккаунта и резервное копирование обрабатываются smartmedia.',
 
     // Events Gallery
     'EVENTS-TITLE': 'Галерея мероприятий',
@@ -806,12 +806,12 @@ var arrLang = {
     //TESTIMONIALS
     'TESTIMONIALS-TITLE': 'Прочитайте, что говорят другие',
     'TESTIMONIAL-1-TEXT':
-      '"У меня были проблемы с предыдущими рекламными аккаунтами, которые постоянно блокировались. ProAgency предоставило мне проверенный BM и стабильные аккаунты, которые работали идеально. Больше никакого стресса из-за внезапных банов. Супер надежный сервис!"',
+      '"У меня были проблемы с предыдущими рекламными аккаунтами, которые постоянно блокировались. smartmedia предоставило мне проверенный BM и стабильные аккаунты, которые работали идеально. Больше никакого стресса из-за внезапных банов. Супер надежный сервис!"',
     'TESTIMONIAL-1-NAME': 'John M.',
     'TESTIMONIAL-1-TITLE': 'Владелец интернет-магазина',
     'TESTIMONIAL-1-FLAG': '🇺🇸',
     'TESTIMONIAL-2-TEXT':
-      '"Команда поддержки ProAgency потрясающая. Они провели меня через каждый шаг, настроили рекламу на VPS и даже дали бесплатный Smart Pixel. Я никогда не испытывал такого плавного подключения. Очень рекомендую."',
+      '"Команда поддержки smartmedia потрясающая. Они провели меня через каждый шаг, настроили рекламу на VPS и даже дали бесплатный Smart Pixel. Я никогда не испытывал такого плавного подключения. Очень рекомендую."',
     'TESTIMONIAL-2-NAME': 'Lisa Tran',
     'TESTIMONIAL-2-TITLE': 'Цифровой маркетолог',
     'TESTIMONIAL-2-FLAG': '🇸🇬',
@@ -826,7 +826,7 @@ var arrLang = {
     'TESTIMONIAL-4-TITLE': 'Специалист по перформанс-маркетингу',
     'TESTIMONIAL-4-FLAG': '🇬🇧',
     'TESTIMONIAL-5-TEXT':
-      '"Как владелец агентства, мне нужен был надежный партнер для бизнес-аккаунтов. ProAgency предоставило именно то, что обещало – безопасные аккаунты, быструю замену при необходимости и экспертные консультации. Они профессиональны и заслуживают доверия."',
+      '"Как владелец агентства, мне нужен был надежный партнер для бизнес-аккаунтов. smartmedia предоставило именно то, что обещало – безопасные аккаунты, быструю замену при необходимости и экспертные консультации. Они профессиональны и заслуживают доверия."',
     'TESTIMONIAL-5-NAME': 'David Nguyen',
     'TESTIMONIAL-5-TITLE': 'Основатель агентства',
     'TESTIMONIAL-5-FLAG': '🇨🇦',
@@ -908,9 +908,9 @@ var arrLang = {
     'BANNER-BENEFIT-3': 'Бонусный подарок $500',
     'BANNER-CTA': 'Свяжитесь с нами в Telegram',
 
-    'POPUP-TITLE': 'Эксклюзивные льготы для новых клиентов – ProAgency',
+    'POPUP-TITLE': 'Эксклюзивные льготы для новых клиентов – smartmedia',
     'POPUP-SUBTITLE': 'Ограниченное предложение для первых клиентов',
-    'POPUP-HIGHLIGHT': 'Начните с ProAgency сегодня и экономьте больше!',
+    'POPUP-HIGHLIGHT': 'Начните с smartmedia сегодня и экономьте больше!',
     'POPUP-BENEFIT-1': 'Скидка 3% на сервисные сборы в первый месяц',
     'POPUP-BENEFIT-2':
       'Бесплатный 3-дневный пробный период для ознакомления с нашим сервисом',
@@ -934,7 +934,7 @@ document.addEventListener('DOMContentLoaded', function () {
   function updateLanguage() {
     var elements = document.querySelectorAll('.lang');
     elements.forEach(function (element) {
-      var key = element.getAttribute('data-key') || element.getAttribute('key');
+      var key = element.getAttribute('key');
       element.innerHTML = arrLang[lang][key];
     });
   }
